@@ -37,7 +37,7 @@ void main()
         {
 
             printf("Great job , you have guess the right number");
-            printf("\nif you want to plase once more than enter 'y' or press enter to exit\n");
+            printf("\nif you want to play once more than enter 'y' or press enter to exit\n");
             getchar();
             char userchoice;
 
